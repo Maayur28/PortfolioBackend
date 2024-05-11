@@ -240,7 +240,7 @@ sendMailObj.sendContactMail = async ({ email, name, message }) => {
                                                                 <td class="pad" style="padding-bottom:10px;padding-left:40px;padding-right:10px;">
                                                                     <div style="font-family: sans-serif">
                                                                         <div class style="font-size: 12px; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif; mso-line-height-alt: 24px; color: #34495e; line-height: 2;">
-                                                                            <p style="margin: 0; font-size: 14px; text-align: left; mso-line-height-alt: 40px;"><span style="font-size:20px;"><strong><span style>PriceTracker</span></strong></span></p>
+                                                                            <p style="margin: 0; font-size: 14px; text-align: left; mso-line-height-alt: 40px;"><span style="font-size:20px;"><strong><span style>TrackMYPrice</span></strong></span></p>
                                                                         </div>
                                                                     </div>
                                                                 </td>
@@ -262,7 +262,7 @@ sendMailObj.sendContactMail = async ({ email, name, message }) => {
                                                                 <td class="pad" style="padding-left:40px;">
                                                                     <div style="font-family: sans-serif">
                                                                         <div class style="font-size: 12px; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif; mso-line-height-alt: 24px; color: #a96b7d; line-height: 2;">
-                                                                            <p style="margin: 0; font-size: 14px; text-align: left; mso-line-height-alt: 28px;"><span style="font-size:14px;"><strong><span style><span style><span style><a href="https://www.trackprice.co.in/" target="_blank" style="text-decoration: none; color: #a96b7d;" rel="noopener">View Website</a> →</span></span></span><span style><span style><span style><a href="https://www.trackprice.co.in/" target="_blank" style="text-decoration: underline; color: #a96b7d;" rel="noopener"></a></span></span></span></strong></span></p>
+                                                                            <p style="margin: 0; font-size: 14px; text-align: left; mso-line-height-alt: 28px;"><span style="font-size:14px;"><strong><span style><span style><span style><a href="https://trackmyprice.in/" target="_blank" style="text-decoration: none; color: #a96b7d;" rel="noopener">View Website</a> →</span></span></span><span style><span style><span style><a href="https://trackmyprice.in/" target="_blank" style="text-decoration: underline; color: #a96b7d;" rel="noopener"></a></span></span></span></strong></span></p>
                                                                         </div>
                                                                     </div>
                                                                 </td>
@@ -273,7 +273,7 @@ sendMailObj.sendContactMail = async ({ email, name, message }) => {
                                                         <table class="image_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
                                                             <tr>
                                                                 <td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
-                                                                    <div class="alignment" align="left" style="line-height:10px"><a href="https://www.trackprice.co.in/" target="_blank" style="outline:none" tabindex="-1"><img src="https://res.cloudinary.com/mayur28/image/upload/v1682390088/PriceTrackerHome_xorrov.png" style="display: block; height: auto; border: 0; width: 233px; max-width: 100%;" width="233" alt="PriceTrackerImage" title="PriceTrackerImage"></a></div>
+                                                                    <div class="alignment" align="left" style="line-height:10px"><a href="https://trackmyprice.in/" target="_blank" style="outline:none" tabindex="-1"><img src="https://asset.cloudinary.com/mayur28/ef0ddc3b688530c63adde4b05442a1be" style="display: block; height: auto; border: 0; width: 233px; max-width: 100%;" width="233" alt="TrackMYPriceImage" title="TrackMYPrice"></a></div>
                                                                 </td>
                                                             </tr>
                                                         </table>
