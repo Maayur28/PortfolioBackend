@@ -273,7 +273,7 @@ sendMailObj.sendContactMail = async ({ email, name, message }) => {
                                                         <table class="image_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
                                                             <tr>
                                                                 <td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
-                                                                    <div class="alignment" align="left" style="line-height:10px"><a href="https://trackmyprice.in/" target="_blank" style="outline:none" tabindex="-1"><img src="https://asset.cloudinary.com/mayur28/ef0ddc3b688530c63adde4b05442a1be" style="display: block; height: auto; border: 0; width: 233px; max-width: 100%;" width="233" alt="TrackMYPriceImage" title="TrackMYPrice"></a></div>
+                                                                    <div class="alignment" align="left" style="line-height:10px"><a href="https://trackmyprice.in/" target="_blank" style="outline:none" tabindex="-1"><img src="https://res.cloudinary.com/mayur28/image/upload/v1715405123/Screenshot_2024-05-11_105450_ci78t6.png" style="display: block; height: auto; border: 0; width: 233px; max-width: 100%;" width="233" alt="TrackMYPriceImage" title="TrackMYPrice"></a></div>
                                                                 </td>
                                                             </tr>
                                                         </table>
